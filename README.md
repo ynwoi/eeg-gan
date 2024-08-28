@@ -1,1 +1,1 @@
-# EEGANet_
+# eeg-gan
